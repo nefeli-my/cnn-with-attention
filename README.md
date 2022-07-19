@@ -3,7 +3,7 @@
 This project was created for the purposes of the [e-Health and m-Health Technologies](https://www.biosim.ntua.gr/en/course/10) course at [ECE NTUA](https://www.ece.ntua.gr/en), along with Fotis Pericharos, Dimitris Poulios and Nikiforos Tsoulias. 
 
 ### Overview
-For this project, a simple convolutional neural network was developed for tackling the multi-class classification problem presented with the [Kaggle Alzheimer's Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). The initial model was enhanced using two different attention mechanisms ([ECA-NET]() [1] and [CBAM]() [2]), thus resulting in two new classification models. For comparison purposes, all of the three architectures were later on evaluated using standard metrics (accuracy, precision, recall and AUC), while the [Grad-CAM]() [3] visualization technique was used as a visualization tool. 
+For this project, a simple convolutional neural network was developed for tackling the multi-class classification problem presented with the [Kaggle Alzheimer's Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). The initial model was enhanced using two different attention mechanisms ([ECA-NET](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-ecanet/) [1] and [CBAM]() [2]), thus resulting in two new classification models. For comparison purposes, all of the three architectures were later on evaluated using standard metrics (accuracy, precision, recall and AUC), while the [Grad-CAM](https://pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/) [3] visualization technique was used as a visualization tool. 
 
 ### References 
 
